@@ -1,0 +1,23 @@
+
+::placeholder{
+    color:rgb(225, 225, 225);
+    font-size: 10px;
+}
+
+.bg_img{
+    background-image: url("../img/photo.jpg");
+}
+
+.bg_img_p{
+    background-image: url("../img/figure.jpg");
+    background-repeat: repeat-x;
+}
+
+/* .navbar-brand:hover{
+    color:yellow;
+    text-decoration: none;
+} */
+
+.line {
+    border-bottom: solid 3px #ccc;
+}
